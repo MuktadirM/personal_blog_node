@@ -1,0 +1,26 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "type": "module",
+  "keywords": [
+    "personal",
+    "blog",
+    "profile",
+    "work",
+    "hobbies"
+  ],
+  "author": "Abdul Muktadir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
